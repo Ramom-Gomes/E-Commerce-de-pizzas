@@ -10,7 +10,7 @@ Link para visualização total do projeto: [VISUALIZAÇÃO](https://tangerine-fl
 
 <div align="center" display="flex">
 <img src="https://user-images.githubusercontent.com/110055468/235915336-fd63c554-2f3b-4f45-8ae4-cfe3a81cf5b3.jpeg" width="400px" />
-<img src="(https://user-images.githubusercontent.com/110055468/235915468-d10db2a8-0637-459d-b52f-13c15d00a131.jpeg" width="400px" />
+<img src="("https://user-images.githubusercontent.com/110055468/235915468-d10db2a8-0637-459d-b52f-13c15d00a131.jpeg" width="400px" />
 </div>
 
 
