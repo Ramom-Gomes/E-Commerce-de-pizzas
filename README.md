@@ -1,4 +1,4 @@
-# Rick and Morty
+# E-commerce de pizzas
 
 Este repositório contém informações sobre esse projeto de e-commerce de pizzas
 
@@ -9,8 +9,8 @@ O principal objetivo com este projeto foi praticar e aprender a manipular o DOM 
 Link para visualização total do projeto: [VISUALIZAÇÃO](https://tangerine-flan-82ef74.netlify.app/).
 
 <div align="center" display="flex">
-<img src="https://user-images.githubusercontent.com/110055468/235494642-5dfcb2b6-ca92-45b9-adb1-10000c13f0e0.jpeg" width="500px" />
-<img src="https://user-images.githubusercontent.com/110055468/235496245-86a3b650-f067-4d8e-a67c-0ff6ef4f5b2f.jpeg" width="500px" />
+<img src="https://user-images.githubusercontent.com/110055468/235915336-fd63c554-2f3b-4f45-8ae4-cfe3a81cf5b3.jpeg" width="400px" />
+<img src="(https://user-images.githubusercontent.com/110055468/235915468-d10db2a8-0637-459d-b52f-13c15d00a131.jpeg" width="400px" />
 </div>
 
 
@@ -29,8 +29,8 @@ Link para visualização total do projeto: [VISUALIZAÇÃO](https://tangerine-fl
 Primeiro, você deve clonar o projeto na sua máquina, para isso você pode colar o seguinte comando em seu terminal:
 
 ```bash
-  git clone https://github.com/Ramom-Gomes/Rick-Morty.git
-  cd rick-morty
+  git clone https://github.com/Ramom-Gomes/E-Commerce-de-pizzas.git
+  cd E-Commerce-de-pizzas
 ```
 
 Por fim, para executar o projeto basta rodar o seguinte:
