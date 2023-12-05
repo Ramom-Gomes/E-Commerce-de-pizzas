@@ -3,6 +3,7 @@
 ### E-commerce de pizzas é um projeto onde o usuário consegue fazer compras de pizzas adicionando em um carrinho, o usuário consegue escolher o sabor das pizzas, o tamanho, e quantas unidade vai querer comprar. O principal objetivo com este projeto foi praticar e aprender a manipular o DOM com javascript.
 
 ### Link para visualização total do projeto: [Clique aqui](https://tangerine-flan-82ef74.netlify.app/).
+---
 
 ## 📷 Imagens
 <div align="center" display="flex">
@@ -10,9 +11,11 @@
 <img src="https://user-images.githubusercontent.com/110055468/235917015-264623f2-dd7d-425a-89c4-4420e37fc1f3.jpeg" width="400px" />
 </div>
 
+---
 
 ## Status
 ### Projeto Finalizado ✔️
+---
 
 ## ⚒️ Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -21,13 +24,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-
+---
 ## 💻 Pré Requisitos
 
 * Ter o [Git](https://git-scm.com) instalado para clonar o repositório.
 * Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
-
-
+---
 
 ## 🚀 Instalando
 
